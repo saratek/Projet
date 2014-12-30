@@ -1,0 +1,38 @@
+c:\users\ameli_000\documents\visual studio 2013\Projects\ClassLibrary3\ClassLibrary3\bin\Debug\ClassLibrary3-AddIn.dna
+c:\users\ameli_000\documents\visual studio 2013\Projects\ClassLibrary3\ClassLibrary3\bin\Debug\ClassLibrary3.dll
+c:\users\ameli_000\documents\visual studio 2013\Projects\ClassLibrary3\ClassLibrary3\bin\Debug\ClassLibrary3.pdb
+c:\users\ameli_000\documents\visual studio 2013\Projects\ClassLibrary3\ClassLibrary3\bin\Debug\ClassLibrary3.pri
+c:\users\ameli_000\documents\visual studio 2013\Projects\ClassLibrary3\ClassLibrary3\obj\Debug\ClassLibrary3.csprojResolveAssemblyReference.cache
+c:\users\ameli_000\documents\visual studio 2013\Projects\ClassLibrary3\ClassLibrary3\obj\Debug\ClassLibrary3.dll
+c:\users\ameli_000\documents\visual studio 2013\Projects\ClassLibrary3\ClassLibrary3\obj\Debug\ClassLibrary3.pdb
+c:\users\ameli_000\documents\visual studio 2013\Projects\ClassLibrary3\ClassLibrary3\obj\Debug\priconfig.xml
+c:\users\ameli_000\documents\visual studio 2013\Projects\ClassLibrary3\ClassLibrary3\obj\Debug\priconfig.xml.intermediate
+c:\users\ameli_000\documents\visual studio 2013\Projects\ClassLibrary3\ClassLibrary3\obj\Debug\layout.resfiles
+c:\users\ameli_000\documents\visual studio 2013\Projects\ClassLibrary3\ClassLibrary3\obj\Debug\layout.resfiles.intermediate
+c:\users\ameli_000\documents\visual studio 2013\Projects\ClassLibrary3\ClassLibrary3\obj\Debug\resources.resfiles
+c:\users\ameli_000\documents\visual studio 2013\Projects\ClassLibrary3\ClassLibrary3\obj\Debug\resources.resfiles.intermediate
+c:\users\ameli_000\documents\visual studio 2013\Projects\ClassLibrary3\ClassLibrary3\obj\Debug\pri.resfiles
+c:\users\ameli_000\documents\visual studio 2013\Projects\ClassLibrary3\ClassLibrary3\obj\Debug\pri.resfiles.intermediate
+c:\users\ameli_000\documents\visual studio 2013\Projects\ClassLibrary3\ClassLibrary3\obj\Debug\qualifiers.txt
+c:\users\ameli_000\documents\visual studio 2013\Projects\ClassLibrary3\ClassLibrary3\obj\Debug\qualifiers.txt.intermediate
+c:\users\ameli_000\documents\visual studio 2013\Projects\ClassLibrary3\ClassLibrary3\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\ameli_000\documents\visual studio 2013\Projects\ClassLibrary3\ClassLibrary3\bin\Debug\MathNet.Numerics.xml
+C:\Users\ameli_000\Desktop\VBA M2C2\ClassLibrary3\ClassLibrary3\bin\Debug\ClassLibrary3-AddIn.dna
+C:\Users\ameli_000\Desktop\VBA M2C2\ClassLibrary3\ClassLibrary3\bin\Debug\ClassLibrary3.dll
+C:\Users\ameli_000\Desktop\VBA M2C2\ClassLibrary3\ClassLibrary3\bin\Debug\ClassLibrary3.pdb
+C:\Users\ameli_000\Desktop\VBA M2C2\ClassLibrary3\ClassLibrary3\bin\Debug\ClassLibrary3.pri
+C:\Users\ameli_000\Desktop\VBA M2C2\ClassLibrary3\ClassLibrary3\bin\Debug\MathNet.Numerics.xml
+C:\Users\ameli_000\Desktop\VBA M2C2\ClassLibrary3\ClassLibrary3\obj\Debug\ClassLibrary3.csprojResolveAssemblyReference.cache
+C:\Users\ameli_000\Desktop\VBA M2C2\ClassLibrary3\ClassLibrary3\obj\Debug\ClassLibrary3.dll
+C:\Users\ameli_000\Desktop\VBA M2C2\ClassLibrary3\ClassLibrary3\obj\Debug\ClassLibrary3.pdb
+C:\Users\ameli_000\Desktop\VBA M2C2\ClassLibrary3\ClassLibrary3\obj\Debug\priconfig.xml
+C:\Users\ameli_000\Desktop\VBA M2C2\ClassLibrary3\ClassLibrary3\obj\Debug\priconfig.xml.intermediate
+C:\Users\ameli_000\Desktop\VBA M2C2\ClassLibrary3\ClassLibrary3\obj\Debug\layout.resfiles
+C:\Users\ameli_000\Desktop\VBA M2C2\ClassLibrary3\ClassLibrary3\obj\Debug\layout.resfiles.intermediate
+C:\Users\ameli_000\Desktop\VBA M2C2\ClassLibrary3\ClassLibrary3\obj\Debug\resources.resfiles
+C:\Users\ameli_000\Desktop\VBA M2C2\ClassLibrary3\ClassLibrary3\obj\Debug\resources.resfiles.intermediate
+C:\Users\ameli_000\Desktop\VBA M2C2\ClassLibrary3\ClassLibrary3\obj\Debug\pri.resfiles
+C:\Users\ameli_000\Desktop\VBA M2C2\ClassLibrary3\ClassLibrary3\obj\Debug\pri.resfiles.intermediate
+C:\Users\ameli_000\Desktop\VBA M2C2\ClassLibrary3\ClassLibrary3\obj\Debug\qualifiers.txt
+C:\Users\ameli_000\Desktop\VBA M2C2\ClassLibrary3\ClassLibrary3\obj\Debug\qualifiers.txt.intermediate
+C:\Users\ameli_000\Desktop\VBA M2C2\ClassLibrary3\ClassLibrary3\obj\Debug\MultipleQualifiersPerDimensionFound.txt
